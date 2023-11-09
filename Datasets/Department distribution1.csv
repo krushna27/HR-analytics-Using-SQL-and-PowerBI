@@ -1,0 +1,215 @@
+department,jobtitle,count(department)
+Accounting,"Accountant I",14
+Accounting,"Accountant II",18
+Accounting,"Accountant III",12
+Accounting,"Accountant IV",16
+Accounting,"Accounting Assistant I",13
+Accounting,"Accounting Assistant II",9
+Accounting,"Accounting Assistant III",8
+Accounting,"Accounting Assistant IV",23
+Accounting,Actuary,6
+Accounting,"Administrative Assistant I",2
+Accounting,"Administrative Assistant II",2
+Accounting,"Administrative Assistant IV",2
+Accounting,"Administrative Officer",7
+Accounting,"Budget/Accounting Analyst I",33
+Accounting,"Budget/Accounting Analyst II",27
+Accounting,"Budget/Accounting Analyst III",28
+Accounting,"Budget/Accounting Analyst IV",40
+Accounting,"Cost Accountant",53
+Accounting,"Financial Advisor",1
+Accounting,"Financial Analyst",16
+Accounting,"Payment Adjustment Coordinator",7
+Accounting,"Senior Cost Accountant",54
+Accounting,"Senior Financial Analyst",5
+Accounting,"Staff Accountant I",66
+Accounting,"Staff Accountant II",12
+Accounting,"Staff Accountant III",14
+Accounting,"Staff Accountant IV",18
+Accounting,"Structural Engineer",3
+Accounting,"Tax Accountant",65
+Accounting,"VP Accounting",12
+Auditing,"Internal Auditor",12
+"Business Development","Business Analyst",110
+"Business Development","Research Assistant I",44
+"Business Development","Research Assistant II",119
+"Business Development","Research Assistant III",2
+Engineering,"Administrative Assistant I",1
+Engineering,"Administrative Assistant II",1
+Engineering,"Administrative Assistant III",1
+Engineering,"Administrative Officer",6
+Engineering,"Analog Circuit Design manager",10
+Engineering,"Analyst Programmer",63
+Engineering,"Assistant Manager",1
+Engineering,"Automation Specialist I",5
+Engineering,"Automation Specialist II",1
+Engineering,"Automation Specialist IV",2
+Engineering,"Business Analyst",11
+Engineering,"Business Systems Development Analyst",57
+Engineering,"Chief Design Engineer",14
+Engineering,"Computer Systems Analyst I",17
+Engineering,"Computer Systems Analyst II",17
+Engineering,"Computer Systems Analyst III",15
+Engineering,"Computer Systems Analyst IV",16
+Engineering,"Data Coordiator",66
+Engineering,"Data Visualization Specialist",91
+Engineering,"Database Administrator I",18
+Engineering,"Database Administrator II",19
+Engineering,"Database Administrator III",14
+Engineering,"Database Administrator IV",9
+Engineering,"Design Engineer",6
+Engineering,"Developer I",8
+Engineering,"Developer II",13
+Engineering,"Developer III",20
+Engineering,"Developer IV",14
+Engineering,"Electrical Engineer",7
+Engineering,"Engineer I",2
+Engineering,"Engineer II",2
+Engineering,"Information Systems Manager",3
+Engineering,"Mechanical Systems Engineer",7
+Engineering,"Product Engineer",9
+Engineering,"Programmer Analyst I",12
+Engineering,"Programmer Analyst II",13
+Engineering,"Programmer Analyst III",12
+Engineering,"Programmer Analyst IV",8
+Engineering,"Programmer I",14
+Engineering,"Programmer II",9
+Engineering,"Programmer III",13
+Engineering,"Programmer IV",12
+Engineering,"Quality Control Specialist",8
+Engineering,"Quality Engineer",4
+Engineering,"Recruiting Manager",3
+Engineering,"Research Assistant I",8
+Engineering,"Research Assistant II",1
+Engineering,"Research Assistant III",1
+Engineering,"Research Associate",4
+Engineering,"Senior Developer",71
+Engineering,"Senior Financial Analyst",5
+Engineering,"Senior Quality Engineer",9
+Engineering,"Software Consultant",65
+Engineering,"Software Engineer I",74
+Engineering,"Software Engineer II",10
+Engineering,"Software Engineer III",17
+Engineering,"Software Engineer IV",18
+Engineering,"Software Test Engineer I",17
+Engineering,"Software Test Engineer II",16
+Engineering,"Software Test Engineer III",19
+Engineering,"Software Test Engineer IV",11
+Engineering,"Staff Scientist",5
+Engineering,"Statistician I",2
+Engineering,"Statistician II",1
+Engineering,"Statistician III",2
+Engineering,"Statistician IV",2
+Engineering,"Structural Analysis Engineer",4
+Engineering,"Structural Engineer",2
+Engineering,"Systems Administrator I",58
+Engineering,"Systems Administrator II",12
+Engineering,"Systems Administrator III",10
+Engineering,"Systems Administrator IV",22
+Engineering,"VP Quality Control",5
+Engineering,"Web Designer I",7
+Engineering,"Web Designer II",1
+Engineering,"Web Designer III",1
+Engineering,"Web Designer IV",1
+Engineering,"Web Developer I",17
+Engineering,"Web Developer II",9
+Engineering,"Web Developer III",16
+Engineering,"Web Developer IV",8
+"Human Resources","Compensation Analyst",5
+"Human Resources","HR Manager",35
+"Human Resources","Human Resources Analyst",70
+"Human Resources","Human Resources Analyst II",118
+"Human Resources","Human Resources Assistant I",5
+"Human Resources","Human Resources Assistant III",1
+"Human Resources","Human Resources Assistant IV",2
+"Human Resources","Human Resources Manager",5
+"Human Resources",Recruiter,39
+"Human Resources","Senior Recruiter",29
+Legal,"Administrative Assistant",11
+Legal,Attorney,5
+Legal,"Executive Assistant",8
+Legal,"Legal Assistant",3
+Legal,Librarian,7
+Legal,Paralegal,15
+Legal,"Research Assistant",9
+Legal,"Senior Attorney",5
+Marketing,"Administrative Assistant II",1
+Marketing,Editor,19
+Marketing,"Graphic Designer",3
+Marketing,"Media Manager I",18
+Marketing,"Media Manager II",6
+Marketing,"Research Associate",1
+Marketing,"Senior Editor",18
+Marketing,"VP Marketing",4
+Marketing,"Web Designer III",2
+"Product Management","Assistant Manager",2
+"Product Management","Business Analyst",12
+"Product Management","Chief Design Engineer",1
+"Product Management","Design Engineer",3
+"Product Management","General Manager",6
+"Product Management","Product Engineer",3
+"Product Management","Project Manager",62
+"Product Management","Quality Control Specialist",7
+"Product Management","Quality Engineer",5
+"Product Management","Senior Quality Engineer",5
+"Product Management","VP Product Management",8
+"Research and Development","Administrative Assistant II",1
+"Research and Development","Administrative Assistant III",1
+"Research and Development","Assistant Manager",1
+"Research and Development","Business Analyst",1
+"Research and Development","Design Engineer",1
+"Research and Development","Executive Secretary",2
+"Research and Development","Financial Analyst",1
+"Research and Development","Office Assistant I",1
+"Research and Development","Office Assistant II",1
+"Research and Development",Operator,35
+"Research and Development","Quality Control Specialist",14
+"Research and Development","Research Assistant I",52
+"Research and Development","Research Associate",29
+"Research and Development","Senior Quality Engineer",20
+"Research and Development","Statistician II",1
+"Research and Development","Structural Analysis Engineer",6
+"Research and Development","Structural Engineer",41
+"Research and Development","VP Quality Control",4
+Sales,"Account Executive",96
+Sales,"Account Manager",21
+Sales,"Customer Success Manager",53
+Sales,"Director of Sales",1
+Sales,"Pre-Sales Consultant",41
+Sales,"Relationshiop Manager",40
+Sales,"Sales Associate",2
+Sales,"Sales Representative",2
+Sales,"Senior Sales Associate",2
+Sales,"Solutions Engineer",35
+Sales,"Solutions Engineer Manager",42
+Services,"General Manager",5
+Services,Operator,5
+Services,"Research Associate",3
+Services,"Service Coordinator",56
+Services,"Service Manager",54
+Services,"Service Tech",63
+Services,"Service Tech II",51
+Services,"Service Tech III",56
+Support,"Automation Specialist II",1
+Support,"Automation Specialist III",2
+Support,"Automation Specialist IV",2
+Support,"Community Outreach Specialist",7
+Support,"Desktop Support Technician",64
+Support,"Help Desk Operator",19
+Support,"Help Desk Technician",60
+Support,"Support Staff",11
+Support,"Support Staff II",13
+Support,"Support Staff III",3
+Training,"Administrative Assistant I",35
+Training,"Administrative Assistant II",3
+Training,"Assistant Trainer",34
+Training,"Content Developer",11
+Training,"Content Developer II",8
+Training,"Content Developer III",9
+Training,"Junior Trainer",43
+Training,"Senior Trainer",29
+Training,"Support Staff",9
+Training,"Trainer I",20
+Training,"Trainer II",26
+Training,"Trainer III",36
+Training,"Training Manager",28
